@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800" role="img" aria-label="Paneer Curry">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f59e0b"/>
+      <stop offset="100%" stop-color="#ea580c"/>
+    </linearGradient>
+    <radialGradient id="bowl" cx="50%" cy="45%" r="45%">
+      <stop offset="0%" stop-color="#fde68a"/>
+      <stop offset="100%" stop-color="#f97316"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="800" fill="url(#bg)"/>
+  <ellipse cx="600" cy="420" rx="390" ry="230" fill="#7c2d12" opacity="0.25"/>
+  <ellipse cx="600" cy="390" rx="360" ry="210" fill="url(#bowl)"/>
+  <g fill="#fff7ed" opacity="0.95">
+    <rect x="455" y="300" width="70" height="70" rx="12"/>
+    <rect x="540" y="280" width="72" height="72" rx="12"/>
+    <rect x="630" y="320" width="68" height="68" rx="12"/>
+    <rect x="710" y="295" width="74" height="74" rx="12"/>
+    <rect x="510" y="380" width="76" height="76" rx="12"/>
+    <rect x="615" y="400" width="70" height="70" rx="12"/>
+  </g>
+  <g fill="#166534" opacity="0.9">
+    <circle cx="430" cy="430" r="8"/>
+    <circle cx="760" cy="430" r="8"/>
+    <circle cx="565" cy="500" r="7"/>
+    <circle cx="680" cy="270" r="7"/>
+  </g>
+  <text x="60" y="95" fill="#ffffff" font-family="Segoe UI, Arial, sans-serif" font-size="64" font-weight="700">Paneer Tikka Masala</text>
+  <text x="60" y="150" fill="#ffedd5" font-family="Segoe UI, Arial, sans-serif" font-size="30">Rich curry with soft paneer cubes</text>
+</svg>

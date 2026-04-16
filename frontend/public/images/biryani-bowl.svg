@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800" role="img" aria-label="Biryani Bowl">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#92400e"/>
+      <stop offset="100%" stop-color="#ea580c"/>
+    </linearGradient>
+    <radialGradient id="rice" cx="50%" cy="45%" r="45%">
+      <stop offset="0%" stop-color="#fde68a"/>
+      <stop offset="100%" stop-color="#f59e0b"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="800" fill="url(#bg)"/>
+  <ellipse cx="600" cy="420" rx="400" ry="240" fill="#451a03" opacity="0.3"/>
+  <ellipse cx="600" cy="390" rx="370" ry="215" fill="url(#rice)"/>
+  <g>
+    <ellipse cx="500" cy="360" rx="120" ry="55" fill="#b45309" opacity="0.7"/>
+    <ellipse cx="690" cy="390" rx="135" ry="60" fill="#9a3412" opacity="0.7"/>
+    <ellipse cx="570" cy="470" rx="150" ry="62" fill="#78350f" opacity="0.65"/>
+  </g>
+  <g stroke="#fef3c7" stroke-width="3" stroke-linecap="round" opacity="0.9">
+    <line x1="390" y1="330" x2="420" y2="350"/>
+    <line x1="450" y1="500" x2="480" y2="520"/>
+    <line x1="740" y1="320" x2="770" y2="340"/>
+    <line x1="720" y1="500" x2="750" y2="520"/>
+    <line x1="590" y1="290" x2="620" y2="310"/>
+  </g>
+  <text x="60" y="95" fill="#ffffff" font-family="Segoe UI, Arial, sans-serif" font-size="64" font-weight="700">Hyderabadi Biryani</text>
+  <text x="60" y="150" fill="#ffedd5" font-family="Segoe UI, Arial, sans-serif" font-size="30">Aromatic rice layered with rich spices</text>
+</svg>
